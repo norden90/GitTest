@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=NORDEN;Initial Catalog=KeysDemoDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DataAccess
